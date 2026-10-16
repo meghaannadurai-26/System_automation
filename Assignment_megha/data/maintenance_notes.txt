@@ -1,0 +1,11 @@
+# technician notes   (date  arm  - text)
+2026-10-01 ARM-11 - swapped the dusty filter in the control cabinet.
+2026-10-08 ARM-12 - checked the teach pendant cable, no damage.
+2026-10-10 ARM-13 - wrist rattles a bit on fast moves, noticed it twice this week.
+2026-10-12 ARM-14 - smells like burning near the elbow motor, switched it off for a few minutes.
+2026-10-13 ARM-15 - grease top up done. no leak, no strange noise.
+2026-10-14 ARM-12 - lunch order for the night shift is on the board.
+2026-10-14 ARM-13 - elbow runs hot after about an hour, and the movement is a bit jerky.
+2026-10-15 ARM-16 - new sticker with the asset number put on the base.
+2026-10-15 ARM-14 - cracked cover on the wrist, vibration is not worse than before, but keep an eye.
+2026-09-02 ARM-12 - grinding noise from shoulder, fixed by replacing the gearbox oil.
